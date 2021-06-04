@@ -1,0 +1,17 @@
+h1{
+  color: green;
+  background-color: #caff33;
+  line-height: 7;
+  font-style: oblique;
+  font-family: inherit;
+}
+p {
+  color: grey;
+
+  font-family: monospace;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+ul{
+  color: black
+}
