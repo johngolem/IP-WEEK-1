@@ -1,6 +1,7 @@
 h1{
   color: green;
   border: 2px solid red;
+  border-right: 4px solid blue;
   background-color: #caff33;
   line-height: 7;
   font-style: oblique;
