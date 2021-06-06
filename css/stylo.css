@@ -16,10 +16,16 @@ h1{
   font-style: oblique;
   font-family: inherit;
 }
-div{
+.profilepic{
   border:1px solid red;
-  length:50px
-  width:50px
+  length:100px;
+  width: 500px;
+  display: inline;
+  }
+  .heading{
+    border:1px solid red;
+    length:100px;
+    width: 500px;
   }
 
 .abtme{
